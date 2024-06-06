@@ -19,4 +19,4 @@ def test2():
   return 2*2
 
 ```
-Made for teach Decorators
+Made to Teach!
